@@ -10,9 +10,5 @@ I'm a passionate full stack developer
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tejax-v2&icon=5&color=6)](https://visitcount.itsvg.in)

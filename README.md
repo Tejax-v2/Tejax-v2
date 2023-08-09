@@ -43,7 +43,7 @@
 # 📊 GitHub Stats:
 
 ![raunak-dev-edu GitHub stats](https://github-readme-stats.vercel.app/api?username=tejax-v2&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tejax-v2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tejax-v2&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ## 🌐 Connect with Me
 

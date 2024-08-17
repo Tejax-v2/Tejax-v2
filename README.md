@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,windows,vscode,tensorflow,selenium,sklearn,sqlite,raspberrypi,pytorch,powershell,postman,postgres,php,notion,nginx,netlify,mysql,mint,linux,linkedin,latex,kali,instagram,html,gmail,gitlab,github,flask,firebase,figma,django,docker,discord,c,cpp,bootstrap,blender,bash,arduino&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,selenium,sklearn,sqlite,raspberrypi,pytorch,postman,postgres,php,nginx,mysql,linux,github,flask,figma,django,docker,c,cpp,blender,bash,arduino&perline=8" />
   </a>
 </p>
 
@@ -72,10 +72,6 @@
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Anime gif" width="300" />
 </p>
 
-<!-- Anime Quote -->
-> "A lesson without pain is meaningless. That's because no one can gain without sacrificing something."  
-> — *Fullmetal Alchemist*
-
 <!-- Connect with me -->
 ### 📫 Connect with Me!
 
@@ -83,7 +79,12 @@
   <a href="https://www.linkedin.com/in/tejas-tupke" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/tejax_v2.1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  <a href="https://kaggle.com/Tejax-v2">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
+  <a href="https://medium.com/@tejaxv2">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+
+
 </p>

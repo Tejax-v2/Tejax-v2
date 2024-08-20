@@ -7,9 +7,9 @@
       </td>
       <td>
         <!-- Title -->
-        <h1 style="color:blue;">こんにちは！ I'm Tejas! 👋</h1>
+        <h1 style="color:blue;">Hello！ I'm Tejas! 👋</h1>
         <!-- Subtitle with emojis -->
-        <h3>🧠 Deep Learning | 💻 CV-Robotics | 🇯🇵 Japanese</h3>
+        <h3>🧠 Deep Learning | 💻 CV-Robotics </h3>
         <!-- Introduction -->
         <p style="color:blue;">
           🎓 4th Year B.Tech in Computer Science at IIT Patna <br>

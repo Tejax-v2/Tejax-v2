@@ -9,11 +9,11 @@
         <!-- Title -->
         <h1 style="color:blue;">Hello！ I'm Tejas! 👋</h1>
         <!-- Subtitle with emojis -->
-        <h3>🧠 Deep Learning | 💻 CV-Robotics </h3>
+        <h3>🧠 Deep Learning | 🤖 CV-Robotics | 💻 Cybersecurity</h3>
         <!-- Introduction -->
         <p style="color:blue;">
           🎓 4th Year B.Tech in Computer Science at IIT Patna <br>
-          🛠️ Passionate about CV-Robotics and Artificial Intelligence <br>
+          🛠️ Passionate about CV-Robotics and Cybersecurity <br>
           💡 Ensuring the safety and security in the Digital Realm <br>
           👓 I love studying Psychology!
         </p>

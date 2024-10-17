@@ -3,7 +3,7 @@
     <tr>
       <!-- Profile Picture -->
       <td align="center" width="200">
-        <img src="https://media.licdn.com/dms/image/D4D03AQGPIpjtjTpzbA/profile-displayphoto-shrink_800_800/0/1677056988752?e=1729123200&v=beta&t=z-jO7kylGGNmecVNaz59Yvi_yGx_CpkDmnTSTvYJ1uE" alt="Tejax-v2" width="200"/>
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGPIpjtjTpzbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677056988752?e=1734566400&v=beta&t=46ov-C5zT6ch5XAyHu2i62MbHPoZ2Xqd4k7I1iQnvug" alt="Tejax-v2" width="200"/>
       </td>
       <td>
         <!-- Title -->

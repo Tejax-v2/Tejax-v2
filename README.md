@@ -9,11 +9,11 @@
         <!-- Title -->
         <h1 style="color:blue;">Hello！ I'm Tejas! 👋</h1>
         <!-- Subtitle with emojis -->
-        <h3>🧠 Deep Learning | 🤖 CV-Robotics | 💻 Cybersecurity</h3>
+        <h3> 📷 Computer Vision | 💻 Cybersecurity</h3>
         <!-- Introduction -->
         <p style="color:blue;">
           🎓 4th Year B.Tech in Computer Science at IIT Patna <br>
-          🛠️ Passionate about CV-Robotics and Cybersecurity <br>
+          🛠️ Passionate about Cybersecurity and Computer Vision <br>
           💡 Ensuring the safety and security in the Digital Realm <br>
           👓 I love studying Psychology!
         </p>
@@ -79,10 +79,10 @@
   <a href="https://www.linkedin.com/in/tejas-tupke" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://kaggle.com/Tejax-v2">
+  <a href="https://kaggle.com/tejaxv2">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://medium.com/@tejaxv2">
+  <a href="https://tejax-v2.medium.com">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 

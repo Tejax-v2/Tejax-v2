@@ -62,6 +62,15 @@
   </a>
 </p>
 
+> ### 📦 YOLOv11 Custom Implementations
+> 
+> A brief description of the project group.
+> 
+> - **[Hand Keypoint Detection](https://github.com/Tejax-v2/Hand-Keypoint-Detection)**: Detects 21 keypoints on human hand.
+> - **[Car Parts Segmentation](https://github.com/Tejax-v2/Car-Components-Segmentation)**: Pixelwise segmentation of Car components.
+> - **[Electronics Components Detection](https://github.com/Tejax-v2/Electronics-Components-Detection)**: Locates Electronics components in real time.
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tejax-v2/count.svg" />

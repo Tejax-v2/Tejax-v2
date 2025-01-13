@@ -41,7 +41,7 @@
       </td>
       <td>
         <!-- GitHub Streak -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejax-v2&theme=transparent&hide_border=true" alt="Tejas's GitHub streak" />
+        <img src="https://streak-stats.demolab.com?user=Tejax-v2&theme=transparent&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>

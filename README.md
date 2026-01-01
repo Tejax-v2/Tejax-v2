@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://i.ibb.co/HLwxnkZn/output-onlinepngtools.png" alt="Tejax-v2" width="200"/>
-</div>
-
-<div align="center">
   <h1 style="color:blue;">Hello！ I'm Tejas! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /></h1>
   <h3> Software Engineer | Full Stack | Visual AI</h3>
   <table>
